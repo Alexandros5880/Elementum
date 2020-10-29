@@ -215,6 +215,7 @@ function cpabc_appointments_main_initialization()
     for ($n=0; $n<count($pdateAndTime); $n++)
     {
         $params["DATE"] = trim( substr($pdate[$n], 0, strpos($pdate[$n],' ') ) );
+        $params["MAINDATE"] = $params["DATE"];
         $params["TIME"] = trim( substr($pdate[$n], strpos($pdate[$n],' ') ) );
         $rows_affected = $wpdb->insert( CPABC_APPOINTMENTS_TABLE_NAME, array( 'calendar' => $selectedCalendar,
                                                                         'time' => current_time('mysql'),

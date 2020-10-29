@@ -1050,7 +1050,10 @@ Please note that the pro features aren't advised as part of the free plugin in t
 = 1.3.45 =
 * Fixed CSS in non-military time mode
 
+= 1.3.46 =
+* Added new date tag %MAINDATE%
+
 == Upgrade Notice ==
 
-= 1.3.45 =
-* Fixed CSS in non-military time mode
+= 1.3.46 =
+* Added new date tag %MAINDATE%
