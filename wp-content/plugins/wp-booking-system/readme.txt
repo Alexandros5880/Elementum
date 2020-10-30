@@ -3,7 +3,7 @@ Contributors: murgroland
 Tags: booking calendar, booking system, availability calendar, reservation calendar, reservation, availability, calendar, booking, ical, icalendar, rental, booking engine, bookings
 Requires at least: 4.7
 Tested up to: 5.5
-Stable tag: 2.0.12
+Stable tag: 2.0.13
 Requires PHP: 5.6
 
 The booking calendar plugin for WordPress. Get easy online booking with this lightweight and powerful booking system.
@@ -159,6 +159,9 @@ Please see [www.wpbookingsystem.com](https://www.wpbookingsystem.com) for more i
 
 
 == Changelog ==
+
+= 2.0.13 =
+* Fixed: Bug with reCAPTCHA key not being included.
 
 = 2.0.12 =
 * New: Added Indonesian language

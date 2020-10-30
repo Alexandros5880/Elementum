@@ -423,7 +423,8 @@ class WPBS_Form_Validator
             $this->has_errors = true;
             return $field;
         }
-
+        
+        $recaptcha_secret_key = (isset($this->plugin_settings['recaptcha_v2_secret_key'])) ? $this->plugin_settings['recaptcha_v2_secret_key'] : '';
         $recaptcha_response_get = wp_remote_get("https://www.google.com/recaptcha/api/siteverify?secret=" . $recaptcha_secret_key . "&response=" . $captcha . "&remoteip=" . $_SERVER['REMOTE_ADDR']);
         $recaptcha_response = json_decode($recaptcha_response_get['body'], true);
 
