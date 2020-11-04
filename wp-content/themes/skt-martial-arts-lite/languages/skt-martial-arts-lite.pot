@@ -1,0 +1,1444 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SKT Martial Arts Lite\n"
+"POT-Creation-Date: 2020-07-14 13:02+0530\n"
+"PO-Revision-Date: 2020-07-14 13:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:33
+msgid ""
+"Server cannot find the file you requested. The Page has either been moved or "
+"deleted, or you entered the wrong URL or document name. Look at the URL. If "
+"a word looks misspelled, then correct it and try it again. If that doesnt "
+"work You can try our search option to find what you are looking for."
+msgstr ""
+
+#: author.php:30
+msgid "Posts by "
+msgstr ""
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:28
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:28
+msgid "One Response"
+msgstr ""
+
+#: comments.php:28
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:52
+msgid "Trackbacks &amp; Pings"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: customizer/controls/settings-basic.php:19
+msgid "Converted to Latest Version"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:38
+msgid "Site Layout *"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:42
+msgid "Full Width"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:55
+msgid "Fixed Background Image"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:71
+msgid "Site content Text Color"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:85
+msgid "Other Elements Background"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:86
+msgid ""
+"Affects Posts hover color, Search button background Color, Widget Title "
+"border color, Comments Submit button color."
+msgstr ""
+
+#: customizer/controls/settings-basic.php:101
+msgid "Other Elements Text Color"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:102
+msgid "Affects Front page post hover text color, Search button text color."
+msgstr ""
+
+#: customizer/controls/settings-basic.php:116
+msgid "Default Anchor Color"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:131
+msgid "Social Icon Color"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:146
+msgid "Social Icon Bgcolor"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:160
+msgid "Social Icon Hover Bgcolor"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:176
+#: customizer/controls/settings-header.php:35
+#: customizer/controls/settings-header.php:351
+msgid "Family"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:191
+#: customizer/controls/settings-header.php:50
+#: customizer/controls/settings-header.php:366
+msgid "Subsets"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:207
+msgid "Font Size"
+msgstr ""
+
+#: customizer/controls/settings-code.php:13 customizer/customizer.php:61
+msgid "Custom CSS"
+msgstr ""
+
+#: customizer/controls/settings-code.php:14
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: customizer/controls/settings-footer.php:14
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:15
+msgid ""
+"Turn On/Off The button that appears on bottom right when you scroll down to "
+"pages."
+msgstr ""
+
+#: customizer/controls/settings-footer.php:30
+msgid "Footer Background Color"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:43
+msgid "Footer Background Image"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:59
+msgid "Footer Text Color"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:73
+#: customizer/controls/settings-footer.php:87
+msgid "Footer Title Color"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:100
+msgid "Footer Menu Color"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:113
+msgid "Footer Menu Hover Color"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:127
+msgid "Footer Layout"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: customizer/controls/settings-footer.php:138 lib/functions/defaults.php:258
+msgid "SKT Martial Arts Lite"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:144
+msgid "Columns 1 Title"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:163
+msgid "Columns 1 Content"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:173 lib/functions/defaults.php:269
+msgid "QUICK LINKS"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:179
+msgid "Columns 2 Title"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:192
+msgid "Columns 2 Content"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:202 lib/functions/defaults.php:274
+msgid "OUR SERVICES"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:208
+msgid "Columns 3 Title"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:221
+msgid "Columns 3 Content"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:231 lib/functions/defaults.php:279
+msgid "CONTACT US"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:237
+msgid "Columns 4 Title"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:250
+msgid "Columns 4 Content"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:17
+msgid "Slider Type *"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:18
+msgid "Choose the Slider type."
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:21
+msgid "Default Slider"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:38
+msgid "Slider Effect *"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:41
+msgid "Fade"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:42
+msgid "Random"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:43
+msgid "Fold"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:44
+msgid "Slide Down"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:45
+msgid "Slice Down Left"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:46
+msgid "Slice Up"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:47
+msgid "Slice Up Left"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:48
+msgid "Slice Up Down"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:49
+msgid "Slice Up Down Left"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:50
+msgid "Slide In Right"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:51
+msgid "Slide In Left"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:52
+msgid "Box Random"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:53
+msgid "Box Rain"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:54
+msgid "Box Rain Reverse"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:55
+msgid "Box Rain Grow"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:56
+msgid "Box Rain Grow Reverse"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:70
+msgid "Animation speed should be multiple of 100 *"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:88
+msgid "Add slide pause time*"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:105
+msgid "Slider navigation *"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:108
+#: customizer/controls/settings-frontpage.php:125
+msgid "True"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:109
+#: customizer/controls/settings-frontpage.php:126
+msgid "False"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:122
+msgid "Slider pagination*"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:140
+msgid "Slide Title Family"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:155
+msgid "Slide Title Subsets"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:170
+msgid "Slide Description Family"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:185
+msgid "Slide Description Subsets"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:200
+msgid "Slide Button Family"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:215
+msgid "Slide Button Subsets"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:230
+msgid "Slide Title Font Size"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:247
+msgid "Slide Description Font Size"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:264
+msgid "Slide Button Font Size"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:281
+msgid "Slide Title Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:295
+msgid "Slide Description Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:309
+msgid "Slide Button Text Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:323
+msgid "Slide Button Background Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:337
+msgid "Slide Button Hover Text Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:351
+msgid "Slide Button Hover Background Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:365
+msgid "Slide Pager Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:379
+msgid "Slide Active Pager Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:393
+msgid "Slider Wave Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:409
+msgid "Slide Image 1"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:418
+#: customizer/controls/settings-frontpage.php:487
+#: customizer/controls/settings-frontpage.php:557
+msgid "<small style=\"color:#282828;\">MARTIAL</small>ARTS"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:424
+msgid "Slide Title 1"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:431
+#: customizer/controls/settings-frontpage.php:501
+#: customizer/controls/settings-frontpage.php:570
+msgid ""
+"Pellentesque habitant morbi tristique senectus et netus et malesuada fames "
+"ac turpis egestas. Vestibul volutpat in arcu non rutr. Aliquam a eros nulla."
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:437
+msgid "Slide Description 1"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:444
+#: customizer/controls/settings-frontpage.php:514
+#: customizer/controls/settings-frontpage.php:583
+msgid "#"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:450
+msgid "Slide Link 1"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:457
+#: customizer/controls/settings-frontpage.php:527
+#: customizer/controls/settings-frontpage.php:596
+msgid "JOIN NOW"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:463
+msgid "Slide Button 1"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:478
+msgid "Slide Image 2"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:494
+msgid "Slide Title 2"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:507
+msgid "Slide Description 2"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:520
+msgid "Slide Link 2"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:533
+msgid "Slide Button 2"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:548
+msgid "Slide Image 3"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:563
+msgid "Slide Title 3"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:576
+msgid "Slide Description 3"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:589
+msgid "Slide Link 3"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:602
+msgid "Slide Button 3"
+msgstr ""
+
+#: customizer/controls/settings-header.php:15
+msgid "Header Layout *"
+msgstr ""
+
+#: customizer/controls/settings-header.php:19
+msgid "Header Layout 2"
+msgstr ""
+
+#: customizer/controls/settings-header.php:66
+msgid "Site Title Font Size"
+msgstr ""
+
+#: customizer/controls/settings-header.php:83
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:97
+msgid "Logo Image *"
+msgstr ""
+
+#: customizer/controls/settings-header.php:114
+msgid "Image Height"
+msgstr ""
+
+#: customizer/controls/settings-header.php:131
+msgid "Image Width"
+msgstr ""
+
+#: customizer/controls/settings-header.php:148
+msgid "Logo Margin Top"
+msgstr ""
+
+#: customizer/controls/settings-header.php:165
+msgid "Header Background Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:180
+msgid "Menu Text Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:194
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:208
+msgid "Menu Active Text & Border Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:222
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:237
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:251
+msgid "Sub Menu Hover Background Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:266
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:280
+msgid "Mobile Top Bar Background Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:294
+msgid "Mobile Menu Text Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:308
+msgid "Mobile Menu Active Text Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:322
+msgid "Mobile Outer Toggle Bar Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:336
+msgid "Mobile Inner Toggle Bar Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:381
+msgid "Menu Font Size"
+msgstr ""
+
+#: customizer/controls/settings-header.php:397
+msgid "Turn Menu Text to Uppercase"
+msgstr ""
+
+#: customizer/controls/settings-header.php:410
+msgid "Transparent Header on Frontpage *"
+msgstr ""
+
+#: customizer/controls/settings-header.php:425
+msgid "Background Transparency (Must On Above Transparent Header Option)"
+msgstr ""
+
+#: customizer/controls/settings-help.php:12
+msgid ""
+"<a target=\"_blank\" href=\"http://optimizerwp.com/optimizer-documentation/"
+"\">Official Documentation</a>"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:18
+msgid "Social links Icons Style"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:37
+msgid "Social Icons Position"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:41 customizer/customizer.php:23
+#: customizer/customizer.php:79
+msgid "Header"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:42 customizer/customizer.php:38
+msgid "Footer"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:56
+msgid "Social Icons Size"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:60
+msgid "Normal"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:61
+msgid "Large"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:77
+msgid "Facebook URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:92
+msgid "Twitter URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:106
+msgid "Google Plus URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:120
+msgid "Youtube URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:135
+msgid "Flickr URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:150
+msgid "Linkedin URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:164
+msgid "Pinterest URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:179
+msgid "Tumblr URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:193
+msgid "Instagram URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:207
+msgid "Dribbble URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:222
+msgid "Behance URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:237
+msgid "RSS FEED URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:255
+msgid "Hide Slider for Mobile"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:270
+msgid "Hide Right Sidebar for Mobile"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:286
+msgid "Hide Page Headers for Mobile"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:302
+msgid "Lightbox Feature *"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:314
+msgid "Enhanced Gallery *"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:317
+msgid ""
+"Replaces your boring WordPress galleries with complete slideshow gallery "
+"system."
+msgstr ""
+
+#: customizer/controls/settings-misc.php:331
+msgid "SEO Settings are available in the PRO version."
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:13
+msgid "Woo Shop Page Layout *"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:17
+msgid "Shop Page Right Sidebar"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:18
+msgid "Shop Page Left Sidebar"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:19
+msgid "Shop Page Full Width"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:34
+msgid "Woo Single Product Layout *"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:38
+msgid "Single Product Right Sidebar"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:39
+msgid "Single Product Left Sidebar"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:40
+msgid "Single Product Full Width"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:54
+msgid "Single Post Layout *"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:58
+msgid "Single Post Right Sidebar"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:59
+msgid "Single Post Left Sidebar"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:60
+msgid "Single Post Full Width"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:61
+msgid "Single Post No Sidebar"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:77
+msgid "Show Post Info"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:92
+msgid "Next and Previous Posts"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:93
+msgid "Display Next and Previous Posts Under Single Post"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:108
+msgid "Comments"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:109
+msgid "Show/Hide Comments in Posts and Pages"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:127
+msgid "Page Header Background"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:140
+msgid "Page Header Background Image"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:156
+msgid "Hide Page Header"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:172
+msgid "Post Header Background"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:185
+msgid "Posts Header Background Image"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:201
+msgid "Hide Post Header"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:224
+msgid "Display Blog Posts from selected Categories *"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:238
+msgid "Blog Page Posts Count *"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:254
+msgid "Blog Page Thumbnails *"
+msgstr ""
+
+#: customizer/controls/settings-sectionbuttons.php:21
+#: lib/functions/defaults.php:251 lib/functions/defaults.php:252
+#: sktframe/core-posts.php:55 sktframe/core-posts.php:65
+#: sktframe/core-posts.php:74 sktframe/core-posts.php:82
+#: sktframe/core-posts.php:181 templates/post-layout1.php:34
+#: templates/post-layout1.php:43 templates/post-layout1.php:51
+#: templates/post-layout1.php:59 templates/post-layout4.php:30
+#: templates/post-layout4.php:73
+msgid "Read More"
+msgstr ""
+
+#: customizer/controls/settings-sectionbuttons.php:27
+msgid "Recent Post Block Button Text"
+msgstr ""
+
+#: customizer/controls/settings-sectionbuttons.php:41
+msgid "Button Background Color"
+msgstr ""
+
+#: customizer/controls/settings-sectionbuttons.php:55
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: customizer/controls/settings-shortcodes.php:6
+msgid "<strong>Shortcodes List Goes Here</strong>"
+msgstr ""
+
+#: customizer/controls/settings-shortcodes.php:11
+msgid "All Shortcodes"
+msgstr ""
+
+#: customizer/controls/settings-shortcodes.php:14
+msgid "Shortcodes List"
+msgstr ""
+
+#: customizer/customizer.php:16
+msgid "Basic"
+msgstr ""
+
+#: customizer/customizer.php:31 customizer/extra.php:109
+#: customizer/extra.php:122
+msgid "Front Page"
+msgstr ""
+
+#: customizer/customizer.php:43
+msgid "Site Layout"
+msgstr ""
+
+#: customizer/customizer.php:49
+msgid "Colors Options"
+msgstr ""
+
+#: customizer/customizer.php:55
+msgid "Fonts Typography"
+msgstr ""
+
+#: customizer/customizer.php:67
+msgid "Create Sidebars"
+msgstr ""
+
+#: customizer/customizer.php:73
+msgid "Topbar"
+msgstr ""
+
+#: customizer/customizer.php:85
+msgid "Site Title & Logo"
+msgstr ""
+
+#: customizer/customizer.php:91
+msgid "Header Layout "
+msgstr ""
+
+#: customizer/customizer.php:97
+msgid "Section Blocks Button"
+msgstr ""
+
+#: customizer/customizer.php:103
+msgid "Slider"
+msgstr ""
+
+#: customizer/customizer.php:109
+msgid "Front Page Settings"
+msgstr ""
+
+#: customizer/customizer.php:115
+msgid "Footer Style"
+msgstr ""
+
+#: customizer/customizer.php:121
+msgid "Footer Columns"
+msgstr ""
+
+#: customizer/customizer.php:127
+msgid "Media Settings"
+msgstr ""
+
+#: customizer/customizer.php:130
+msgid "Meida Settings"
+msgstr ""
+
+#: customizer/customizer.php:137
+msgid "Site Background Color"
+msgstr ""
+
+#: customizer/customizer.php:138
+msgid "Site Background Image"
+msgstr ""
+
+#: customizer/customizer.php:139 customizer/customizer.php:140
+msgid "Does not affect the front page if the Site Layout is set to Full-Width."
+msgstr ""
+
+#: customizer/customizer.php:199
+msgid "Site Title Font"
+msgstr ""
+
+#: customizer/customizer.php:200
+msgid "Topbar Font"
+msgstr ""
+
+#: customizer/customizer.php:201
+msgid "Slider Font Typography & Colors"
+msgstr ""
+
+#: customizer/customizer.php:202
+msgid "Headings and Post Titles Font"
+msgstr ""
+
+#: customizer/customizer.php:203
+msgid "Menu Font"
+msgstr ""
+
+#: customizer/customizer.php:204
+msgid "Site Content Font"
+msgstr ""
+
+#: customizer/customizer.php:205
+msgid "For H1"
+msgstr ""
+
+#: customizer/customizer.php:206
+msgid "For H2"
+msgstr ""
+
+#: customizer/customizer.php:207
+msgid "For H3"
+msgstr ""
+
+#: customizer/customizer.php:208
+msgid "For H4"
+msgstr ""
+
+#: customizer/customizer.php:209
+msgid "For H5"
+msgstr ""
+
+#: customizer/customizer.php:210
+msgid "For H6"
+msgstr ""
+
+#: customizer/customizer.php:211
+msgid "Image"
+msgstr ""
+
+#: customizer/customizer.php:212
+msgid "Button 1"
+msgstr ""
+
+#: customizer/customizer.php:213
+msgid "Button 2"
+msgstr ""
+
+#: customizer/customizer.php:214
+msgid "Slideshow"
+msgstr ""
+
+#: customizer/customizer.php:215
+msgid "Video"
+msgstr ""
+
+#: customizer/customizer.php:216
+msgid "Switch Theme"
+msgstr ""
+
+#: customizer/customizer.php:217
+msgid "Your Sidebars"
+msgstr ""
+
+#: customizer/customizer.php:218
+msgid "Static Slide Settings"
+msgstr ""
+
+#: customizer/customizer.php:219
+msgid "Nivo / Accordion Slider Settings"
+msgstr ""
+
+#: customizer/extra.php:6 customizer/extra.php:86
+msgid "Close"
+msgstr ""
+
+#: customizer/extra.php:39
+msgid "Save and close"
+msgstr ""
+
+#: customizer/extra.php:40
+msgid "Click On \"Visual\" Tab To Save Content."
+msgstr ""
+
+#: customizer/extra.php:69
+msgid "SETTINGS"
+msgstr ""
+
+#: customizer/extra.php:73
+msgid "Reset Options"
+msgstr ""
+
+#: customizer/extra.php:75
+msgid ""
+"Reset Options to default theme settings. All your current theme settings "
+"will be lost except the page selection & widgets settings."
+msgstr ""
+
+#: customizer/extra.php:76
+msgid "Do you really want to Reset? All your Theme Settings will be lost."
+msgstr ""
+
+#: customizer/extra.php:87
+msgid "Documentation"
+msgstr ""
+
+#: customizer/extra.php:88
+msgid "Settings"
+msgstr ""
+
+#: customizer/extra.php:108
+msgid "View"
+msgstr ""
+
+#: customizer/extra.php:111 customizer/extra.php:142
+msgid "Single Post"
+msgstr ""
+
+#: customizer/extra.php:112 customizer/extra.php:143
+msgid "Category Page"
+msgstr ""
+
+#: customizer/extra.php:113
+msgid "Tag Page"
+msgstr ""
+
+#: customizer/extra.php:114
+msgid "Archive Page"
+msgstr ""
+
+#: customizer/extra.php:115 customizer/extra.php:144
+msgid "Author Page"
+msgstr ""
+
+#: customizer/extra.php:116 customizer/extra.php:147
+msgid "Search Page"
+msgstr ""
+
+#: customizer/extra.php:117 customizer/extra.php:148
+msgid "404 Page"
+msgstr ""
+
+#: customizer/extra.php:121 page.php:46 templates/page-builder.php:36
+#: templates/page-fullwidth_template.php:38
+#: templates/rightsidebar_single_template.php:48
+msgid "Pages:"
+msgstr ""
+
+#: customizer/extra.php:141
+msgid "Posts:"
+msgstr ""
+
+#: customizer/extra.php:146
+msgid "Other:"
+msgstr ""
+
+#: customizer/extra.php:178
+msgid "Add Widgets Here"
+msgstr ""
+
+#: customizer/includes/control-editor.php:22
+msgid "Edit content"
+msgstr ""
+
+#: functions.php:36
+msgid "Header Navigation"
+msgstr ""
+
+#: functions.php:52
+msgid "View your shopping cart"
+msgstr ""
+
+#: lib/dashboard.php:81 lib/dashboard.php:123
+#, php-format
+msgid "Thank you for installing %s."
+msgstr ""
+
+#: lib/dashboard.php:87
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: lib/dashboard.php:129
+#, php-format
+msgid ""
+"To take full advantage of all the features this theme has to offer, please "
+"install and activate FIRST the %s plugin."
+msgstr ""
+
+#: lib/dashboard.php:172 lib/skt-theme-plugin-install.php:29
+msgid "Activated"
+msgstr ""
+
+#: lib/dashboard.php:172 lib/skt-theme-plugin-install.php:40
+msgid "Activate"
+msgstr ""
+
+#: lib/dashboard.php:191
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: lib/dashboard.php:195
+msgid "Upload Logo"
+msgstr ""
+
+#: lib/dashboard.php:196
+msgid "Color Option"
+msgstr ""
+
+#: lib/dashboard.php:197
+msgid "Manage Slider"
+msgstr ""
+
+#: lib/dashboard.php:198
+msgid "Header Layout"
+msgstr ""
+
+#: lib/dashboard.php:199
+msgid "Manage Footer"
+msgstr ""
+
+#: lib/dashboard.php:201
+msgid "Manage Menus"
+msgstr ""
+
+#: lib/functions/converter.php:76
+msgid "Welcome Text"
+msgstr ""
+
+#: lib/functions/core.php:45
+msgid "Page Sidebar"
+msgstr ""
+
+#: lib/functions/core.php:47
+msgid ""
+"When you assign widgets to this area, it will be displayed on all pages."
+msgstr ""
+
+#: lib/functions/core.php:55
+msgid "Blog Sidebar"
+msgstr ""
+
+#: lib/functions/core.php:57
+msgid ""
+"When you assign widgets to this area, it will be displayed on all posts and "
+"blog."
+msgstr ""
+
+#: lib/functions/core.php:65
+msgid "WooCommerce Pages Sidebar"
+msgstr ""
+
+#: lib/functions/core.php:67
+msgid ""
+"When you assign widgets to this area, it will be displayed on all "
+"woocommerce pages."
+msgstr ""
+
+#: lib/functions/core.php:75
+msgid "Footer 1 Column"
+msgstr ""
+
+#: lib/functions/core.php:76
+msgid "Appears on footer 1 columns"
+msgstr ""
+
+#: lib/functions/core.php:85
+msgid "Footer 2 Columns"
+msgstr ""
+
+#: lib/functions/core.php:86
+msgid "Appears on footer 2 columns"
+msgstr ""
+
+#: lib/functions/core.php:95
+msgid "Footer 3 Columns"
+msgstr ""
+
+#: lib/functions/core.php:96
+msgid "Appears on footer 3 columns"
+msgstr ""
+
+#: lib/functions/core.php:105
+msgid "Footer 4 Columns"
+msgstr ""
+
+#: lib/functions/core.php:106
+msgid "Appears on footer 4 columns"
+msgstr ""
+
+#: lib/functions/core.php:154 lib/functions/core.php:163
+msgid "+ Read More"
+msgstr ""
+
+#: lib/functions/core.php:170
+msgid "Search &hellip;"
+msgstr ""
+
+#: lib/functions/core.php:171
+msgid "Search"
+msgstr ""
+
+#: lib/functions/core.php:187 lib/functions/core.php:221 page.php:30
+#: templates/page-builder.php:23 templates/page-fullwidth_template.php:24
+#: templates/rightsidebar_single_template.php:14
+msgid "Edit"
+msgstr ""
+
+#: lib/functions/core.php:192
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: lib/functions/core.php:203 lib/functions/core.php:223
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/functions/core.php:228
+#, php-format
+msgid "<cite class=\"citeping\">%s</cite> <span class=\"says\">:</span>"
+msgstr ""
+
+#: lib/functions/core.php:247
+msgid "Name"
+msgstr ""
+
+#: lib/functions/core.php:249
+msgid "Email"
+msgstr ""
+
+#: lib/functions/core.php:251
+msgid "Website"
+msgstr ""
+
+#: lib/functions/defaults.php:16
+msgid ""
+"© Copyright 2019. SKT Martial Arts Lite. All Rights Reserved   by  SKTThemes"
+msgstr ""
+
+#: lib/functions/defaults.php:17
+msgid "<i class=\"fa fa-phone\" aria-hidden=\"true\"></i> 12 8888 6666"
+msgstr ""
+
+#: lib/functions/defaults.php:18
+msgid "<i class=\"fa fa-envelope\" aria-hidden=\"true\"></i> info@sitename.com"
+msgstr ""
+
+#: lib/functions/defaults.php:20
+msgid ""
+"[social_area]\n"
+"\t\t\t[social icon=\"facebook\" link=\"#\"]\n"
+"\t\t\t[social icon=\"twitter\" link=\"#\"]\n"
+"\t\t\t[social icon=\"google-plus\" link=\"#\"]\n"
+"\t\t\t[social icon=\"linkedin\" link=\"#\"]\n"
+"\t\t\t[social icon=\"pinterest\" link=\"#\"]\n"
+"\t\t[/social_area]"
+msgstr ""
+
+#: lib/functions/defaults.php:242
+msgid "Featured Boxes"
+msgstr ""
+
+#: lib/functions/enqueue.php:93
+#, php-format
+msgid ""
+"<strong>WARNING:</strong> As per <a href=\"%1$s\" target=\"_blank\">Official "
+"WordPress Theme Team</a>, this Option panel will be obsolete soon. Your "
+"Theme Options has been moved to Appearance > Customizer. "
+msgstr ""
+
+#: lib/includes/google_fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: lib/includes/google_fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: lib/includes/google_fonts.php:125
+msgid "All"
+msgstr ""
+
+#: lib/includes/google_fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: lib/includes/google_fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: lib/includes/google_fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: lib/includes/google_fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: lib/includes/google_fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: lib/includes/google_fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: lib/includes/google_fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: lib/includes/google_fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: lib/includes/google_fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: lib/skt-theme-plugin-install.php:55
+msgid "Install now"
+msgstr ""
+
+#: lib/skt-theme-plugin-install.php:74
+msgid "Learn more"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:24
+msgid "Total posts found - "
+msgstr ""
+
+#: sidebar-blog.php:21 sidebar-blog.php:50
+msgid "Category"
+msgstr ""
+
+#: sidebar-blog.php:32 sidebar-blog.php:61
+msgid "Archives"
+msgstr ""
+
+#: sidebar-page.php:20 sidebar-woo.php:21 sidebar-woo.php:48
+msgid "Product Categories"
+msgstr ""
+
+#: sidebar-page.php:47
+msgid "Pages"
+msgstr ""
+
+#: sktframe/core-functions.php:62
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: sktframe/core-nextprev.php:20
+msgid "Previous Post"
+msgstr ""
+
+#: sktframe/core-nextprev.php:31
+msgid "Next Post"
+msgstr ""
+
+#: sktframe/core-posts.php:53 sktframe/core-posts.php:64
+#: sktframe/core-posts.php:73 templates/post-layout1.php:33
+#: templates/post-layout1.php:50
+msgid "Preview"
+msgstr ""
+
+#: sktframe/core-posts.php:163 templates/post-layout4.php:61
+#: templates/rightsidebar_single_template.php:33
+msgid "0 Comment"
+msgstr ""
+
+#: sktframe/core-posts.php:163 templates/post-layout4.php:61
+#: templates/rightsidebar_single_template.php:33
+msgid "1 Comment"
+msgstr ""
+
+#: sktframe/core-posts.php:163 templates/post-layout4.php:61
+#: templates/rightsidebar_single_template.php:33
+msgid "% Comments"
+msgstr ""
+
+#: sktframe/core-posts.php:163 templates/post-layout4.php:61
+#: templates/rightsidebar_single_template.php:33
+msgid "Off"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.org/shop/free-martial-arts-wordpress-theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Martial Arts Lite Theme built on top of Elementor. Demo: https://"
+"sktperfectdemo.com/themepack/martial-arts/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.org"
+msgstr ""

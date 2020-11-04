@@ -1,0 +1,191 @@
+/*
+ Theme Name:   TH Blogging
+ Theme URI:    http://www.themehunk.com/product/thblogging/
+ Description:   th blogging is a simple and beautiful blogging theme loaded with all options that are useful for blogging site. 
+ Author:       ThemeHunk Team
+ Author URI:   http://www.themehunk.com/
+ Template:     glowline
+ Version:      1.0.5
+ Requires at least: 4.5
+ Tested up to: 5.5.1
+ Requires PHP: 5.6
+ License:      GNU General Public License v3 or later
+ License URI:   https://www.gnu.org/licenses/gpl-3.0.en.html
+Tags:one-column, two-columns, grid-layout, right-sidebar, custom-colors, custom-menu, theme-options, sticky-post, translation-ready, footer-widgets, blog  
+ Text Domain: th-blogging
+*/
+body{
+background:#fffafa;
+font-family: 'Great Vibes', cursive;
+}
+p {
+    line-height: 26px;
+    font-size: 16px;
+       letter-spacing: .8px;
+}
+h1,h2,h3,h4,h5,h6,a,.widgettitle{
+	font-family: 'Nova Slim', cursive;
+	color: #111;
+}
+p, span,pre{
+font-family: 'Linden Hill', serif;
+color: #222;
+}
+ul.two-grid-layout li.post{
+    background: #fff;
+}
+#move-to-top {
+    padding: 6px 10px;
+      height: 40px;
+    border-radius: 5px 5px 5px 5px;
+-moz-border-radius: 5px 5px 5px 5px;
+-webkit-border-radius: 5px 5px 5px 5px;
+}
+.content .post .post-meta .post-date, .slider-post-date span {
+    font-size: 12px;
+}
+.content .post-content .description {
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.two-grid-layout .post-content {
+    padding: 15px;
+}
+.content .post, .content .type-post{
+	margin-bottom:4%;	
+}
+span.page-numbers.current {
+    color: #fff!important;
+}
+.post .post-content .post-header, .content .post-content .read-more{
+    text-align: left;
+}
+  .content .two-grid-layout .post{
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-sizing: border-box;
+}
+.sidebar-inner-widget{
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-sizing: border-box;
+	background:#fff;
+	    padding: 15px;
+	}
+	.widgettitle {
+    margin: 0;
+    text-align:left;
+   	border:0;
+}
+.post .post-category, .single-meta .post-category, .slider-post-category span{
+	border:0;
+	font-size:11px;
+	}
+	ul.load_post.two-grid-layout {
+    margin: 0;
+}
+.content {
+    padding-top: 0px;
+}
+.home #page {
+    padding-top: 30px;
+}
+.navigation .menu > li > a{
+color:#fff
+}
+.home header{
+background:#222;
+}
+.home header.smaller, header.smaller{
+    background-color: rgba(34, 34, 34, 0.92);
+}
+.content .post .post-meta .post-date {
+    text-align: left;
+}
+.home .header-wrapper {
+    background-color: #fffafa!important;
+}
+.footer-wrapper{
+    background: #fffafa;
+}
+ul.two-grid-layout li.post {
+    background: #f9f9f9;
+}
+.sidebar-inner-widget{
+    background: #f9f9f9;
+}
+.widget .th-aboutme p{
+margin:0;
+}
+.widget .th-aboutme img {
+    max-width: 100%;
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-sizing: border-box;
+}
+.mc4wp-form-fields input{
+width:100%;
+}
+.footer {
+     padding-top: 10px;
+    padding-bottom: 0px;
+}
+.gallery .gallery-item {
+line-height:0
+}
+.gallery .gallery-item img{
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-sizing: border-box;
+}
+.content img{
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    box-sizing: border-box;
+}
+.leadform-show-form h1{
+display:none;
+}
+.page header, header{
+    background: #222;
+}
+.header .logo h1 a{
+color:#fff;
+}
+.home header.smaller .logo {
+    padding: 8px 0;
+}
+.home .navigation ul li {
+        float: none;
+text-align:left;
+}
+.home header.smaller #main-menu-wrapper nav.navigation ul {
+  margin: 0;
+padding: 8px 0;
+}
+.home .smaller #searchform-wrap {
+    top: 8px;
+}
+.home #searchform-wrap {
+    top: 0px;
+}
+#main-menu-wrapper nav.navigation .menu {
+    padding: 13px 0;
+	margin: 0;
+	    text-align: left;
+}
+.navigation ul li {
+        float: none;
+	display: inline-block;
+}
+.widget li a {
+    text-transform: capitalize;
+}
+.mc4wp-form {
+	background: #f9f9f9;
+}

@@ -12,6 +12,8 @@ FooGallery is a powerful, responsive photo gallery plugin. Stunning gallery layo
 
 == Description ==
 
+= Best Gallery Plugin =
+
 Make gallery management in WordPress great again! With FooGallery you can easily add a stunning photo gallery to your website in minutes.
 
 FooGallery is an easy-to-use image gallery plugin, with stunning gallery layouts. It is also responsive, retina-ready and supports lazy loading for lightning fast photo galleries.
@@ -22,11 +24,11 @@ FooGallery was built to be highly configurable and extendable for developers or 
 
 That is why we think FooGallery is the best gallery plugin. After using it, we hope you will agree.
 
-[Visit the FooGallery Homepage](http://fooplugins.com/foogallery)
+[Visit the FooGallery Wordpress Gallery Plugin Homepage](http://fooplugins.com/foogallery)
 
-**Features**
+= WordPress Gallery Plugin Features =
 
-The following free features make FooGallery the best gallery plugin on the market!
+The following free features make FooGallery the **best gallery plugin** on the market!
 
 *	6 Beautiful Image Gallery templates
 	*	Responsive Image Gallery - [demo](https://fooplugins.com/foogallery/wordpress-responsive-image-gallery/)
@@ -59,7 +61,7 @@ The following free features make FooGallery the best gallery plugin on the marke
 *	NextGen importer tool (albums and galleries and shortcodes)
 *	Multisite Support
 
-**PRO Features**
+= PRO Gallery Features =
 
 *   3 more beautiful PRO responsive gallery templates:
     *   Polaroid gallery template - [demo](https://fooplugins.com/foogallery/wordpress-polaroid-gallery/)
@@ -131,6 +133,12 @@ FooGallery was designed to be the most developer-friendly image gallery plugin a
 
 Thanks to Fortinet FortiGuard Labs for the security testing conducted on the plugin. FooGallery is a safer plugin thanks to them.
 
+== Best Wordpress Gallery Plugin ==
+
+We did the research. FooGallery has the best performance and has the most features out of any free WordPress gallery plugin. Read our blog post about it:
+
+[What is the Best WordPress Gallery Plugin?](https://fooplugins.com/best-wordpress-gallery-plugin/)
+
 == Installation ==
 
 1. Upload `foogallery` folder to the `/wp-content/plugins/` directory
@@ -201,6 +209,10 @@ Simply go to the FooGallery extensions page and activate the Albums extension. I
 
 Goto FooGallery Settings -> Advanced Tab and check "Disable PRO Promotions" and then save your settings.
 
+= How can you claim that FooGallery is the best WordPress gallery plugin? =
+
+We did the research and comparison. See our findings : [What is the Best WordPress Gallery Plugin?](https://fooplugins.com/best-wordpress-gallery-plugin/)
+
 == Screenshots ==
 
 1. Gallery Edit Page
@@ -215,6 +227,19 @@ Please update in order to for FooGallery to work in WP 5.5+!
 
 == Changelog ==
 
+= 1.9.37 =
+* Date Updated : 2020-10-29
+* Update : Ensure Gallery Items and Settings metaboxes are always visible when editing a gallery
+
+= 1.9.36 =
+* Date Updated : 2020-10-27
+* Update : Freemius SDK 2.4.1
+
+= 1.9.35 =
+* Date Updated : 2020-10-12
+* Fix : Fix for thumbnail generation not working when upload folder is not HTTPS
+
+
 = 1.9.34 =
 * Date Updated : 2020-08-30
 * Fix : Fix for incorrect captions in some scenarios
@@ -225,6 +250,7 @@ Please update in order to for FooGallery to work in WP 5.5+!
 * Date Updated : 2020-08-07
 * Fix : IMPORTANT fix for WP 5.5 compatibility when editing galleries (gallery preview button was not showing)
 
+
 = 1.9.30 =
 * Date Updated : 2020-08-03
 * Fix : IMPORTANT fix for WP 5.5 compatibility when editing galleries (gallery template selector was not showing)
@@ -232,11 +258,13 @@ Please update in order to for FooGallery to work in WP 5.5+!
 * Update : improved lightbox messages when no lightboxes are installed
 * Update : Freemius SDK 2.4.0.1
 
+
 = 1.9.28 =
 * Date Updated : 2020-07-18
 * Fix : Fix for some installs showing thumbnail generation error
 * Update : better mobile support for admin settings tabs
 * Update : FooGallery client side 1.4.16
+
 
 = 1.9.26 =
 * Date Updated : 2020-06-29
@@ -244,11 +272,13 @@ Please update in order to for FooGallery to work in WP 5.5+!
 * Fix : Fix for fatal error on some versions of PHP
 * Update : FooGallery client side 1.4.15
 
+
 = 1.9.25 =
 * Date Updated : 2020-06-04
 * Fix : Fixed bug to prevent infinite loop with ResizeObserver in some themes
 * Fix : Fixed possible text-domain issue
 * Update : FooGallery client side 1.4.13
+
 
 = 1.9.24 =
 * Date Updated : 2020-05-04
@@ -280,6 +310,7 @@ Please update in order to for FooGallery to work in WP 5.5+!
 * Fix : Updated RankMath compatibility to work with pre PHP 5.4
 * New : Added filter "foogallery_build_dynamic_gallery" for dynamic gallery creation
 * New : Added WPML config file for better translations. (Also improves Polylang compatibility.)
+
 * Update : FooGallery client side 1.4.6 (including multiple bug fixes)
 
 = 1.9.8 =
@@ -288,24 +319,29 @@ Please update in order to for FooGallery to work in WP 5.5+!
 * New : Added new setting under Hover Effects : Invert Color. Invert the caption icon colors from dark to light.
 * New : All hover and loading icons converted to SVG format.
 * New : Lazy load gallery images when editing a gallery (improved performance for large galleries in the admin).
+
 * Fix : Previews not updating in some cases.
 * Update : FooGallery client side 1.4.0 (MAJOR UPDATE).
 
 = 1.8.20 =
 * Date Updated : 2019-11-22
 * Fix : Fix for Masonry template layout issue in Firefox
+
 * Update : FooGallery client side 1.3.6
 
 = 1.8.18 =
 * Date Updated : 2019-10-23
 * New : Elementor compatibility - gallery previews in Elementor editor work, and added a FooGallery widget to the Elementor editor
+
 * Fix : Images in Yoast SEO sitemaps pull correctly for all types of gallery embedding
 * Fix : Lazy-load issues on certain browsers (reverted back to old logic)
 * Fix : Updated WPThumb so that images with querystrings in the URL will work
 * Fix : Minor security issue fixed on the FooGallery settings page (only exploitable by administrators)
 
 = 1.8.14 =
+
 * New : Added setting to move "Add Media" button to front of attachment listing (Advanced tab in FooGallery Settings)
+
 * Fix : Lazy-load issues with Gutenberg Editor
 * Fix : Simple portfolio layout issue with certain themes
 * Update : FooGallery client side 1.3.4

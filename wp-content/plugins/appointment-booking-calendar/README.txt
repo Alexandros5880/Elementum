@@ -1053,7 +1053,10 @@ Please note that the pro features aren't advised as part of the free plugin in t
 = 1.3.46 =
 * Added new date tag %MAINDATE%
 
+= 1.3.47 =
+* Improved date picker interface
+
 == Upgrade Notice ==
 
-= 1.3.46 =
-* Added new date tag %MAINDATE%
+= 1.3.47 =
+* Improved date picker interface

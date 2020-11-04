@@ -396,6 +396,8 @@ YAHOO.TDE.AppCalendar.appoiments = new Array();
 		var c = cal.getCalendarPage(dt);
 
 		var cell = c.id+"_cell"+c.getCellIndex(dt);
+		if (YAHOO.util.Dom.hasClass(cell, "reservatedCell"))
+		    return false;
 		var obj = document.getElementById(cell);
 		texto=this.getText(dt,cell,selected[0]);
 		title = YAHOO.TDE.calendar.getTitleDate(cal,dt);
