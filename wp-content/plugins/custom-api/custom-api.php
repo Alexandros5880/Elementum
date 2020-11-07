@@ -84,6 +84,28 @@
 
 
     // Function 4
+    function wl_bookings() {
+        $args = [
+            'numberposts' => 99999,
+            'post_type' => 'Bookings'
+        ];
+        $posts = get_posts($args);
+        $data = [];
+        $i = 0;
+        foreach($posts as $post) {
+            $data[$i]['id'] = $post->ID;
+            /*
+            $data[$i]['title'] = $post->post_title;
+            $data[$i]['content'] = $post->post_content;
+            $data[$i]['slug'] = $post->post_name;
+            */
+            $i++;
+        }
+        return $data;
+    }
+
+
+    // Function 5
     function wl_get_post_types() {
     	return get_post_types();
     }
@@ -120,6 +142,12 @@
         ]);
 
         // Function 4
+        register_rest_route('wl/v1', 'bookings', [
+            'methods' => 'GET',
+            'callback' => 'wl_bookings',
+        ]);
+
+        // Function 5
         register_rest_route('wl/v1', 'posttypes', [
             'methods' => 'GET',
             'callback' => 'wl_get_post_types',
