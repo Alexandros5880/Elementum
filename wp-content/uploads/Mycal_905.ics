@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:0cc6c779a501ebee00ccd6e824e34b6f
+SUMMARY:Lessons - 09 Nov 2020 08:00
+DTSTART;TZID=+00:00:20201109T080000
+DTEND;TZID=+00:00:20201109T090000
+DESCRIPTION:Salon name: Lessons \n\nSalon address: Μυστρά 22 16561 Γλυφάδα \n\nSalon phone: 00316949277783 \n\nSalon email: alexandrosplatanios15@gmail.com \n\nBooked services:\nFitness: 08:00 ➝ 08:00 - Mario\n\nBooking notes:\nNone\n\nBooking status: Confirmed
+LOCATION:Μυστρά 22 16561 Γλυφάδα
+END:VEVENT
+END:VCALENDAR
