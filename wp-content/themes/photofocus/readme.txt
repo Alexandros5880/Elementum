@@ -4,7 +4,7 @@ Tags: grid-layout, one-column, two-columns, right-sidebar, custom-background, cu
 Requires at least: 5.1
 Tested up to: 5.5
 Requires PHP: 5.6
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,9 @@ You can check our Theme Demo at https://www.catchthemes.com/demo/photofocus
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 1.1.2 (Released: November 04, 2020) =
+* Bug Fixed: 404 page HTML structure
 
 = 1.1.1 (Released: October 09, 2020) =
 * Updated: Minor CSS update for header media section

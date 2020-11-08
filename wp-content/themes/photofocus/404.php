@@ -18,7 +18,7 @@ get_header(); ?>
 					if ( 'disable' === $header_image ) : ?>
 
 					<header class="page-header">
-						<h2 class="page-title section-title"><?php esc_html_e( 'Nothing Found', 'photofocus' ); ?></h2>
+						<h1 class="page-title section-title"><?php esc_html_e( 'Nothing Found', 'photofocus' ); ?></h1>
 
 						<div class="section-description-wrapper section-subtitle">
 							<p><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'photofocus' ); ?></p>

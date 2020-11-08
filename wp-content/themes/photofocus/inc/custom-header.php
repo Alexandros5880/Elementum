@@ -225,7 +225,7 @@ if ( ! function_exists( 'photofocus_header_media_text' ) ):
 				<?php
 				$tag = 'h2';
 
-				if ( is_singular() ) {
+				if ( is_singular() || is_404() ) {
 					$tag = 'h1';
 				}
 
