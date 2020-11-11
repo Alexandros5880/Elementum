@@ -61,6 +61,14 @@
 	*/
 
 
+
+
+
+
+
+
+
+
     // Function 3
     function wl_events() {
         $args = [
@@ -83,69 +91,91 @@
     }
 
 
+
+
+
+
+
+
+
+
+
+    /*                            BOOKING  BOOKLY                                */
     // Function 4
     function wl_bookings() {
     	global $wpdb;
-        $rows = $wpdb->get_results("SELECT * FROM wp_bookly_appointments");
+        $rows = $wpdb->get_results("SELECT * FROM wp_bup_bookings");
         return $rows;
     }
 
     // Function 5
     function wl_booking_gategories() {
     	global $wpdb;
-        $rows = $wpdb->get_results("SELECT * FROM wp_bookly_categories");
+        $rows = $wpdb->get_results("SELECT * FROM wp_bup_categories");
         return $rows;
     }
 
     // Function 6
-    function wl_booking_customers() {
+    function wl_booking_staff_availability() {
     	global $wpdb;
-        $rows = $wpdb->get_results("SELECT * FROM wp_bookly_customers");
+        $rows = $wpdb->get_results("SELECT * FROM wp_bup_staff_availability");
         return $rows;
     }
 
     // Function 7
     function wl_booking_services() {
     	global $wpdb;
-        $rows = $wpdb->get_results("SELECT * FROM wp_amelia_services");
+        $rows = $wpdb->get_results("SELECT * FROM wp_bup_services");
+        return $rows;
+    }
+
+    // Function 8
+    function wl_booking_staff_availability_breaks() {
+        global $wpdb;
+        $rows = $wpdb->get_results("SELECT * FROM wp_bup_staff_availability_breaks");
         return $rows;
     }
 
 
-    
+    /*                        STOP  BOOKING  BOOKLY                              */
 
 
-    // Update a record example
-    /*
-	$my_post = array(
-	  'ID'           => $updatePostID, // User defined variable; the post id you want to update.
-	  'post_title'   => 'Update Title',
-	  'post_content' => 'Update Content', 
-	);
-	// Update the post into the database
-	$post_id = wp_update_post( $my_post, true ); // Returns 0 if no error; returns post id if there was an error.
-	// Check if table was updated without error. For debugging. Remove from your code if it all works, before publishing.
-	if (is_wp_error($post_id)) {
-		$errors = $post_id->get_error_messages();
-		foreach ($errors as $error) {
-		    echo $error;
-		}
-	}
-	*/
+
+    // Find More Imfo ->   https://www.smashingmagazine.com/2011/09/interacting-with-the-wordpress-database/
+    // Insert
+    //$wpdb->insert( $table, $data, $format);
+    //$wpdb->insert($wpdb->usermeta, array("user_id" => 1, "meta_key" => "awesome_factor", "meta_value" => 10), array("%d", "%s", "%d"));
+    // Update
+    //$wpdb->update( $table, $data, $where, $format = null, $where_format = null );
+    //$wpdb->update( $wpdb->posts, array("post_title" => "Modified Post Title"), array("ID" => 5), array("%s"), array("%d") );
 
 
-    // Function 8
+
+
+
+
+
+
+
+    // Function 9
     function wl_get_post_types() {
     	return get_post_types();
     }
 
-    // Function 9
+
+
+
+
+
+
+
+
+    /*                                 GET AND CREATE USER                                */
+    // Function 10
     function get_user() {
     	$all_users = get_users();
 		return $all_users;
     }
-
-
 
     // Create User
     function wl_create_user( $request ) {
@@ -178,6 +208,16 @@
 	  	"role"      : "Subscriber"
 	}
 	*/
+
+    /*                            STOP GET AND CREATE USER                                */
+
+
+
+
+
+
+
+
 
 
 
@@ -218,9 +258,9 @@
         ]);
 
         // Function 6
-        register_rest_route('wl/v1', 'booking_customers', [
+        register_rest_route('wl/v1', 'booking_staff_availability', [
             'methods' => 'GET',
-            'callback' => 'wl_booking_customers',
+            'callback' => 'wl_booking_staff_availability',
         ]);
 
         // Function 7
@@ -230,12 +270,22 @@
         ]);
 
         // Function 8
+        register_rest_route('wl/v1', 'booking_staff_availability_breaks', [
+            'methods' => 'GET',
+            'callback' => 'wl_booking_staff_availability_breaks',
+        ]);
+
+
+
+
+
+        // Function 9
         register_rest_route('wl/v1', 'posttypes', [
             'methods' => 'GET',
             'callback' => 'wl_get_post_types',
         ]);
 
-        // Function 8
+        // Function 10
         register_rest_route('wl/v1', 'users', [
             'methods' => 'GET',
             'callback' => 'get_user',
