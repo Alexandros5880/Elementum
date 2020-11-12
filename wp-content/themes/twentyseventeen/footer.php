@@ -23,6 +23,9 @@
 					<h4>697 793 4072</h4>
 					<p>Shaori81@yahoo.com</p>
 				</div>
+				<div class="text-block-left-title">
+					<h2 id="text-block-left-title-h">Follow Us</h2>
+				</div>
 				<div class="text-block-left">  <!-- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons -->
 					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 					<!-- Add font awesome icons -->
@@ -53,6 +56,21 @@
 		color: white;
 		padding-left: 20px;
 		padding-right: 20px;
+	}
+	
+	.text-block-left-title {
+		position: absolute;
+		bottom: 43px;
+		left: 30px;
+		background-color: none;
+		/*color: white;*/
+		padding-left: 10px;
+		padding-right: 10px;
+		/*background: green;*/
+	}
+	
+	#text-block-left-title-h {
+		color: white;
 	}
 
 	.text-block-left {
