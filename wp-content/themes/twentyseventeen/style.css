@@ -78,6 +78,29 @@ h1 {
 	margin: 0.67em 0;
 }
 
+/*        Custom CSC        */
+div.menu-menu-container, menu {
+	background-color: black !important;
+}
+
+li {
+	background-color: black !important;
+}
+
+#site-navigation {
+	background-color: black !important;
+}
+
+.main-navigation {
+	background-color: black !important;
+}
+
+#top-menu {
+	background-color: black !important;
+}
+
+/*    STOP Custom CSC        */
+
 figcaption,
 figure,
 main {
