@@ -16,7 +16,7 @@
 
 		</div><!-- #content -->
 		<footer id="colophon" class="site-footer" role="contentinfo">
-			
+			<!--
 			<div class="container">
 				<img src="http://localhost:8080/Elementum/wp-content/uploads/2020/11/elementum333-e1604841259683.jpg" alt="Norway" style="width:100%;">
 				<div class="text-block-right">
@@ -26,15 +26,14 @@
 				<div class="text-block-left-title">
 					<h2 id="text-block-left-title-h">Follow Us</h2>
 				</div>
-				<div class="text-block-left">  <!-- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons -->
+				<div class="text-block-left">
 					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-					<!-- Add font awesome icons -->
 					<a href="https://www.facebook.com/martial.fitness.glyfada/" class="fa fa-facebook"></a>
 					<a href="https://www.instagram.com/elementum.drago/" class="fa fa-instagram"></a>
 					<a href="https://www.youtube.com/channel/UC2ZFL6YkFLbL8EAODEe4mgQ" class="fa fa-youtube"></a>
 				</div>
 			</div>
-			
+			-->
 		</footer><!-- #colophon -->
 	</div><!-- .site-content-contain -->
 </div><!-- #page -->

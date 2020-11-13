@@ -39,12 +39,12 @@
 				</div><!-- .wrap -->
 			</div><!-- .navigation-top -->
 		<?php endif; ?>
-		
+		<!--
 		<div class="text-block-right">
 			<h4>697 793 4072</h4>
 			<p>Shaori81@yahoo.com</p>
 		</div>
-
+		-->
 	</header><!-- #masthead -->
 
 	<?php
