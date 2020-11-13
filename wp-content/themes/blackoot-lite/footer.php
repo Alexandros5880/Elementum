@@ -32,6 +32,7 @@ endif;
 			?>
 
 			<?php
+				/*
 			printf(
 				// Translators: %1$s is the copyright date, %2$s is the site name (e.g. Copyright © 2018, My Website)
 				esc_html__( 'Copyright &copy; %1$s, %2$s.', 'blackoot-lite' ),
@@ -52,6 +53,7 @@ endif;
 				wp_kses_post( __( 'Blackoot design by %s.', 'blackoot-lite' ) ),
 				'<a href="https://www.iceablethemes.com" title="Free and Premium WordPress Themes">Iceable Themes</a>'
 			);
+			*/
 			?>
 
 <?php
@@ -63,12 +65,16 @@ endif;
 
 		<div class="sub-footer-right">
 			<?php
+				echo "<h5>697 793 4072</h5>";
+				echo "<h5>drakopoulosdioneses@gmail.com</h5>";
+			/*
 			$footer_menu = array(
 				'theme_location' => 'footer-menu',
 				'depth' => 1,
 			);
 			wp_nav_menu( $footer_menu );
-		?>
+			*/
+			?>
 		</div>
 	</div>
 </div>
