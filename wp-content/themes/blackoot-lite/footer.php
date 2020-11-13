@@ -67,13 +67,13 @@ endif;
 			<?php
 				echo "<h5>697 793 4072</h5>";
 				echo "<h5>drakopoulosdioneses@gmail.com</h5>";
-			/*
-			$footer_menu = array(
-				'theme_location' => 'footer-menu',
-				'depth' => 1,
-			);
-			wp_nav_menu( $footer_menu );
-			*/
+			
+				$footer_menu = array(
+					'theme_location' => 'footer-menu',
+					'depth' => 1,
+				);
+				wp_nav_menu( $footer_menu );
+			
 			?>
 		</div>
 	</div>

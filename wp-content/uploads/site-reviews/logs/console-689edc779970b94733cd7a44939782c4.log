@@ -1,0 +1,4 @@
+[2020-11-13 13:16:09] DEBUG [C:\xampp\htdocs\Elementum\wp-content\plugins\site-reviews\plugin\Modules\Console.php:51] Cannot create the wp_glsr_assigned_posts table because it already exists.
+[2020-11-13 13:16:09] DEBUG [C:\xampp\htdocs\Elementum\wp-content\plugins\site-reviews\plugin\Modules\Console.php:51] Cannot create the wp_glsr_assigned_terms table because it already exists.
+[2020-11-13 13:16:09] DEBUG [C:\xampp\htdocs\Elementum\wp-content\plugins\site-reviews\plugin\Modules\Console.php:51] Cannot create the wp_glsr_assigned_users table because it already exists.
+[2020-11-13 13:16:09] DEBUG [C:\xampp\htdocs\Elementum\wp-content\plugins\site-reviews\plugin\Modules\Console.php:51] Cannot create the wp_glsr_ratings table because it already exists.
