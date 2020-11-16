@@ -5,7 +5,7 @@ Donate link: https://labinator.com/
 Tags: accessibility-ready, blog, buddypress, custom-background, custom-colors, custom-header, custom-logo, custom-menu, e-commerce, featured-image-header, featured-images, flexible-header, footer-widgets, full-width-template, grid-layout, left-sidebar, microformats, one-column, portfolio, right-sidebar, rtl-language-support, theme-options, threaded-comments, three-columns, translation-ready, two-columns, wide-blocks
 Requires at least: 5.5
 Requires PHP: 7.2
-Tested up to: 5.5
+Tested up to: 5.5.3
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -86,6 +86,12 @@ There is an optional premium addon that you can get for NanoSpace if you need mo
 
 
 == Changelog ==
+
+1.1.6 - 13/11/2020
+* Adjusts the padding of the category menu items.
+
+1.1.5 - 12/11/2020
+* Adjusts the theme so that the category description of the posts is not shown in the front-end menu.
 
 1.1.4 - 16/09/2020
 * Fixes a minor issue in the "sidebar" page template.

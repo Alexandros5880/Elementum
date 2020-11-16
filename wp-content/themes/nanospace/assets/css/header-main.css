@@ -1571,16 +1571,6 @@ body.nanospace-page-layout-boxed .nanospace-header-section.nanospace-section-ful
 	z-index: 1001;
 }
 
-.nanospace-header-section .nanospace-header-menu .menu-item.has-description {
-	padding-top: 34px;
-	padding-bottom: 10px;
-}
-
-.nanospace-header-section .nanospace-header-menu .sub-menu .menu-item.has-description {
-	padding: 3px;
-	margin: 0;
-}
-
 .sub-menu .menu-item .menu-item-description {
 	display: none;
 }
